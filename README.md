@@ -5,24 +5,27 @@ The previous line was a Header 1. This is how simple text is writen.
 ### But the last line was so tiny to read. So, it's a good practice to use upto H3 like this line.
 
 
-After that use plain text. 
-We can also use *Italics* or **Bold** or _italics_ or ***Bold Italics*** or write same like: **_bold italics_**
+>After that use plain text. And this is how you create a separate block to write something.
 
-You can also write ~~Scratch~~ or this
+We can also use *Italics* or **Bold** or _italics_ or ***Bold Italics*** or write same like: **_bold italics_**.
+
+You can also write ~~Scratch~~ or <u>Underline</u>.
+
+All the symbols of `html` can be used in markdown too!!!
 
 You Have to create an extra line break to use the break.
 Else, the current line will continue.
 
-Represent a key or a file `like this`
+Represent a key or a file `like this`.
 
 ___
-This is how you create lines
+This is how you create lines!!!
 ***
 
 
 ```python
 # use code highlighting like this
-name = input('enter your name')
+name = input('enter your name: ')
 print("Hello",name)
 ```
 
