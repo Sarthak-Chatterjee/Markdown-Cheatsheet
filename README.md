@@ -9,16 +9,16 @@ The previous line was a Header 1. This is how simple text is writen.
 
 We can also use *Italics* or **Bold** or _italics_ or ***Bold Italics*** or write same like: **_bold italics_**.
 
-You can also write ~~Scratch~~ or <html><u>Underline</u></html>.
+You can also write ~~Scratch~~ or <u>Underline</u>.
 
 All the symbols of `html` can be used in markdown too!!!
 
 You Have to create an extra line break to use the break.
 Else, the current line will continue.
 
-Represent a key or a file `like this`.
+This is how you write: Sub<sub>scripts</sub> and Super<sup>scripts</sup>
 
-This ishow you write: Sub<sub>scripts</sub> and Super<sup>scripts</sup>
+Represent a key or a file `like this`.
 
 ___
 This is how you create lines!!!
