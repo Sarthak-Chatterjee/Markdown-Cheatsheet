@@ -9,7 +9,7 @@ The previous line was a Header 1. This is how simple text is writen.
 
 We can also use *Italics* or **Bold** or _italics_ or ***Bold Italics*** or write same like: **_bold italics_**.
 
-You can also write ~~Scratch~~ or <u>Underline</u>.
+You can also write ~~Scratch~~ or <html><u>Underline</u></html>.
 
 All the symbols of `html` can be used in markdown too!!!
 
@@ -18,9 +18,32 @@ Else, the current line will continue.
 
 Represent a key or a file `like this`.
 
+This ishow you write: Sub<sub>scripts</sub> and Super<sup>scripts</sup>
+
 ___
 This is how you create lines!!!
 ***
+
+
+Ordered List:
+1. Apple
+2. Banana
+3. Carrot
+
+
+Unordered list:
+- Apple
+- Banana
+- Carrot
+
+
+Table:
+|Col1|Col2|Col3|
+|---|---|---|
+|One|Two|Three|
+|Four|Five|Six|
+
+
 
 
 ```python
